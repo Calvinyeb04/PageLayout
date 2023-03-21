@@ -1,0 +1,81 @@
+div.Header{
+  text-align: center;
+
+}
+
+div.Header{
+  background-image: url("stars.jpg");
+  color: #FFFFFF;
+}
+
+div.Header{
+    border: 2px solid black;
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+
+nav.Links{
+    bottom: 5;
+    right: 5;
+    width: 300px;
+    background-color: #007F80;
+}
+
+nav.Links li a {
+  color: #fff;
+}
+
+
+nav.Links{
+   border: 0px solid black;
+   padding: 10px;
+   background-repeat: no-repeat;
+   background-size: auto;
+   height: 305px
+
+
+}
+
+div.Space{
+   position: absolute;
+   left: 340px;
+   top: 210px;
+   color: black;
+
+}
+
+
+
+div.PR{
+  position: absolute;
+  left: 340px;
+  top: 265px;
+}
+
+div.flex-container{
+    background-color: #87ceeb;
+    height: 150px;
+
+
+}
+
+div.flex-container{
+   display: flex;
+}
+
+div.Flex{
+  background-color: #00008b;
+  height: 45px;
+  text-align: center;
+  color: white;
+  padding: 4px;
+
+}
+
+
+
+
+
+
